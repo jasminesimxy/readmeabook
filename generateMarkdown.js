@@ -27,11 +27,13 @@ function generateMarkdown(data) {
   ## Installation
 ${data.installation}
 
+## Usage
+${data.usage}
+
 ## Contribution
 ${data.contribution}
 
 ## Questions
-
 If you have anymore questions, you can contact me at: \
 [Github Profile](https://github.com/${data.github}) \
 [Email Address](${data.email})

@@ -13,7 +13,7 @@ const questions = [
       {
         type: 'input',
         name: 'description',
-        message: ' Describe your project',
+        message: ' Describe your project.',
       },
       {
         type: 'input',
@@ -41,8 +41,12 @@ const questions = [
     message: 'What license does your project have?', choices:
     ['MIT',
     'Apache2.0']
+  },
+  {
+    type: 'input',
+    name: 'usage',
+    message: 'Can you please provide instructions to how to use this application '
   }
-
 
 ];
 
