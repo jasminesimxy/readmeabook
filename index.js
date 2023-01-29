@@ -33,7 +33,7 @@ const questions = [
     {
       type: 'input',
       name: 'contribution',
-      message: 'What should a user know if they want to contribute?',
+      message: 'What should a user know if they want to contribute to the repo?',
     },
     {
     type: 'list',
@@ -45,7 +45,7 @@ const questions = [
   {
     type: 'input',
     name: 'usage',
-    message: 'Can you please provide instructions to how to use this application '
+    message: 'What does the user need to know about using the repo '
   }
 
 ];

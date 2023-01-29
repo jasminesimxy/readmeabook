@@ -1,6 +1,6 @@
 # Read me a book
   ## Description
-  test dummy
+
 
   ## Table of Contents
 
@@ -11,10 +11,10 @@
   - [License](#license)
 
   ## Installation
-1. fdf 2 .. rdg
+1. 
 
 ## Contribution
-they need to ....
+
 
 ## Questions
 

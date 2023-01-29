@@ -39,8 +39,7 @@ If you have anymore questions, you can contact me at: \
 [Email Address](${data.email})
 
 ## License
- 
-![badmath](https://img.shields.io/badge/license-${data.license}-blue.svg)
+ This project is licensed under the ![badmath](https://img.shields.io/badge/license-${data.license}-blue.sv license
 `;
 }
 
