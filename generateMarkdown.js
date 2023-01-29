@@ -34,7 +34,7 @@ ${data.usage}
 ${data.contribution}
 
 ## Questions
-If you have anymore questions, you can contact me at: <br />
+If you have anymore questions, you can contact me at: 
 [Github Profile](https://github.com/${data.github})
 [Email Address](${data.email})
 
