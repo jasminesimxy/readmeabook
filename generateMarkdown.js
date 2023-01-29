@@ -34,12 +34,12 @@ ${data.usage}
 ${data.contribution}
 
 ## Questions
-If you have anymore questions, you can contact me at: \
-[Github Profile](https://github.com/${data.github}) \
+If you have anymore questions, you can contact me at: <br />
+[Github Profile](https://github.com/${data.github})
 [Email Address](${data.email})
 
 ## License
- This project is licensed under the ![badmath](https://img.shields.io/badge/license-${data.license}-blue.sv license
+![badmath](https://img.shields.io/badge/license-${data.license}-blue.svg)
 `;
 }
 

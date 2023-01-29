@@ -40,7 +40,7 @@ const questions = [
     name: 'license',
     message: 'What license does your project have?', choices:
     ['MIT',
-    'Apache2.0']
+    'Apache_2.0']
   },
   {
     type: 'input',
